@@ -1,0 +1,17 @@
+[
+  {
+    "id": 0,
+    "age": 34,
+    "skills": ["nodejs", "mongodb"]
+  },
+  {
+    "id": 1,
+    "age": 22,
+    "skills": ["java", "db2"]
+  },
+  {
+    "id": 0,
+    "age": 20,
+    "skills": ["scala", "akka"]
+  }
+]

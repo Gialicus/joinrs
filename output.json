@@ -1,0 +1,32 @@
+[
+  {
+    "s_id": 0,
+    "s_name": "gialicus",
+    "t_age": 34,
+    "t_id": 0,
+    "t_skills": [
+      "nodejs",
+      "mongodb"
+    ]
+  },
+  {
+    "s_id": 0,
+    "s_name": "gialicus",
+    "t_age": 20,
+    "t_id": 0,
+    "t_skills": [
+      "scala",
+      "akka"
+    ]
+  },
+  {
+    "s_id": 1,
+    "s_name": "mario",
+    "t_age": 22,
+    "t_id": 1,
+    "t_skills": [
+      "java",
+      "db2"
+    ]
+  }
+]
